@@ -165,10 +165,10 @@ Netflix更强调同一家庭成员使用同一个账号，而合租用户来自�
 
 | 合租平台 | 套餐与价格 | 核心特点 |
 |:---:|:---:|:---:|
-| <a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a> | 拼车：6个月200元、12个月380元；包车：6个月900元、12个月1730元 | 支持4K UHD和自助同户验证 |
+| <a href="https://www.naifeistation.com/i/3wLPME">星际放映厅</a> | 拼车：200元/半年、380元/年；包车：900元/半年、1730元/半年 | 支持4K UHD和自助同户验证 |
 | <a href="https://nf.video/BTgSc">银河录像局</a> | 共享车位：3个月99元、12个月360元 | 年付套餐支持同户验证 |
 | <a href="https://spotifyzc.com/?incode=anyofai">飞行派</a> | 共享车位：1个月33.9元、3个月94.9元、12个月349.9元 | 支持4K和同户验证，自动发货 |
-| <a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-Netflix">账号星球</a> | 共享账号：30天49.8元；独享HD账号：30天128元；独享账号：30天168元 | 独享账号支持电视端 |
+| <a href="https://accboyytbanyofai.acceboy.com/zh-cn-cny/buy-Netflix">账号星球</a> | 共享账号：30天49.8元；独享账号：30天168元 | 独享账号支持电视端 |
 
 需要注意的是，选择Netflix合租平台时不能只比较价格，还要结合自己的观看设备、购买周期、电视端需求、同户验证支持情况，以及账号失效后的售后方式进行判断。
 
